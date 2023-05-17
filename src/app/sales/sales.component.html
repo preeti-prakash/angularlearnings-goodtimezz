@@ -1,0 +1,21 @@
+<p-table [value]="salesList">
+    <ng-template pTemplate="header">
+        <tr>
+            <th>#</th>
+            <th>Customer</th>
+            <th>Customer Address</th>
+            <th>Date</th>
+            <th>Price</th>
+        </tr>
+    </ng-template>
+    <ng-template pTemplate="body" let-sale>
+        <tr>
+            <td>{{sale.id}}</td>
+            <td>{{sale.sCustomer}}</td>
+            <td>{{sale.sCustomerAddress}}</td>
+            <td>{{sale.sDate}}</td>
+            <td>{{sale.sPrice}}</td>
+        </tr>
+    </ng-template>
+</p-table>
+

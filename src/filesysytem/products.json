@@ -1,0 +1,45 @@
+[
+    {
+        "id": "5d8af099-ecde-408c-add1-d4030ecc07f6",
+        "pName": "Hanuman",
+        "pModel": "GTP3DHanuman150",
+        "pDimensions": {
+            "pHeight":"6",
+            "pWidth": "4",
+            "pWeight": "160",
+            "pScaleMetric": "Inches",
+            "pWeightMetric": "Grams"
+        },
+        "pPrice": "30",
+        "pCurrency": "USD"
+    },
+    {
+        "id": "dad09020-fdde-4e07-b34c-097ba6950557",
+        "pName": "The Buddha",
+        "pModel": "GTP3DTheBuddha150",
+        "pDimensions": {
+            "pHeight":"6",
+            "pWidth": "4",
+            "pWeight": "100",
+            "pScaleMetric": "Inches",
+            "pWeightMetric": "Grams"
+        },
+        "pPrice": "30",
+        "pCurrency": "USD"
+    },
+    {
+        "id": "3944eb30-399e-43ad-9f45-6e38ccf3e5a9",
+        "pName": "Ronaldo",
+        "pModel": "GTP3DRonaldo100",
+        "pDimensions": {
+            "pHeight":"4",
+            "pWidth": "2",
+            "pWeight": "80",
+            "pScaleMetric": "Inches",
+            "pWeightMetric": "Grams"
+        },
+        "pPrice": "30",
+        "pCurrency": "USD"
+    }
+  
+]

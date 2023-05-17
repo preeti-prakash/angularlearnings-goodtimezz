@@ -1,0 +1,14 @@
+.header1, .header2{
+     text-align: center;
+     color: blue;
+}
+.body{
+     padding-left: 660px;
+}
+.header3{
+     font-weight: strong;
+}
+
+.col2 {
+     margin-right: 20px;
+}

@@ -1,0 +1,18 @@
+.form-signup{
+    position: relative;
+    top:80px;
+    left: 650px;
+    /* text-align: center; */
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    width:20%;
+    padding: 20px;
+}
+
+#customerName{
+    margin-bottom: 15px;
+}
+
+#submitButton{
+    margin-top: 15px;
+}

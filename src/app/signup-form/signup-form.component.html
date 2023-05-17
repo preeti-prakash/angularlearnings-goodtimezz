@@ -1,0 +1,39 @@
+<!-- <div class="form-signup">
+    <h2>Sign Up</h2>
+    <form>
+      <div>
+        <label for="customerName">Customer Name</label>
+        <input pInputText type="text" id="customerName" [(ngModel)]="customerName" name="customerName" required>
+      </div>
+      <div>
+        <label for="customerAddress">Customer Address</label>
+        <input pInputText type="text" id="customerAddress" [(ngModel)]="customerAddress" name="customerAddress" required>
+      </div>
+      <button pButton id="submitButton" type="submit">Submit</button>
+    </form>
+    <div>
+        {{customerName}}
+        {{customerAddress}}
+    </div>
+  </div> -->
+
+
+
+
+<!-- 
+
+<h2>Sign Up</h2>
+<div [formGroup]="form">
+    <div>
+        <label for="customerName">Customer Name</label>
+        <input pInputText type="text" formControlName="customerName">
+    </div>
+    <div>
+        <label for="customerAddress">Customer Address</label>
+        <input pInputText type="text" formControlName="customerAddress">
+    </div>
+    <button pButton id="submitButton" type="submit">Submit</button>
+    <div>
+        {{form.value | json}}
+    </div>
+</div> -->

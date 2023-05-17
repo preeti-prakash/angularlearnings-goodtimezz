@@ -1,0 +1,31 @@
+[
+    {
+        "id": "c5679ea1-6fcc-4265-979f-daecb13aa2b2",
+        "sCustomer": "Sunil Patil",
+        "sCustomerAddress": "New Jersey",
+        "sDate": "May 14th 2023",
+        "sPrice": "30"
+    },
+    {
+        "id": "a92e8e49-9ed7-4b79-bbea-78ce8afe918d",
+        "sCustomer": "Mohan Kurimeti",
+        "sCustomerAddress": "New York",
+        "sDate": "May 15th 2023",
+        "sPrice": "30"
+    },
+    {
+        "id": "fe1a40a9-ae34-4d1e-bcb0-d045f23a15fc",
+        "sCustomer": "Raghu Babu",
+        "sCustomerAddress": "California",
+        "sDate": "May 16th 2023",
+        "sPrice": "30"
+    },
+    {
+        "id": "88e3193d-d01d-4814-b935-7835c0ccea66",
+        "sCustomer": "Shyam Surisetty",
+        "sCustomerAddress": "Michigan",
+        "sDate": "May 14th 2023",
+        "sPrice": "30"
+    }
+   
+]
